@@ -1,0 +1,8 @@
+
+server.port: 9000
+spring.application.name: tcp-client
+
+tcp.server.host: localhost
+tcp.server.port: 9002
+
+connection.retry.interval: 10
