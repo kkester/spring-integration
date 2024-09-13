@@ -2,8 +2,9 @@
 
 ## Overview
 1. TCP/IP integration between client and Server leveraging spring integration.
-2. Swagger API Documentation
+2. Swagger API Documentation.
 3. Live Web App updating using SSE.
+4. Live Web App updating using AMQP and websockets.
 
 POST a message to the `/messages` endpoint.  The message will be sent from the client to the server via TCP/IP and then sent as an event to the Web browser where it is then rendered.
 
