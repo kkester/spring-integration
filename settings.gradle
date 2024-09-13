@@ -2,3 +2,4 @@ rootProject.name = 'integration'
 
 include 'server'
 include 'client'
+include 'websocket'

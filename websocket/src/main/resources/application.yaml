@@ -1,0 +1,6 @@
+server.port: 9003
+
+tcp.server.port: 9002
+
+spring:
+  application.name: websocket-events
